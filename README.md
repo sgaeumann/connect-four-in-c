@@ -4,7 +4,7 @@ The Connect Four is written in C programming language.
 
 ## Project layout
   
-  main.c
-  function.c
-  function.h
-  puissance_quatre.exe
+  main.c <br>
+  function.c<br>
+  function.h<br>
+  puissance_quatre.exe<br>
