@@ -4,9 +4,9 @@ The Connect Four is written in C programming language. This code was realized in
 
 ## Project layout
   
-  main.c                        #  main file <br>
-  function.c                    #  file with functions <br>         
-  function.h                    #  header file of `function.c` <br>
-  puissance_quatre.exe          #  .exe file <br>
-  winners.txt                   #  file where winner's info are stored <br>
-  README.md                     #  readme file
+  main.c <br>                      
+  function.c <br>                           
+  function.h  <br>                  
+  puissance_quatre.exe <br>        
+  winners.txt       <br>            
+  README.md    <br>                 
